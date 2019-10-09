@@ -1,4 +1,4 @@
 hey hello
 
 # matlab-randomno
-midsquare
+midsquare m
