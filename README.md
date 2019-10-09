@@ -1,2 +1,2 @@
 # matlab-randomno
-midsquare
+midsquare m
